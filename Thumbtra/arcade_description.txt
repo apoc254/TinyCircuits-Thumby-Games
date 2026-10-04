@@ -1,0 +1,7 @@
+[Thumb Contra]
+
+Defeat all four stages and beat the four bosses to win.
+features directional aiming, powerups, jumping and varied platform height.
+
+Author: Apoc
+Version: 1.0
