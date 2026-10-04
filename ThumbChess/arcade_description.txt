@@ -1,0 +1,11 @@
+[Thumb Chess]
+
+Standard chess with 3 levels of difficulty 
+Easy - random opponent moves
+medium - random opponent moves + captures pieces when it can
+Hard - Real chess, get wrecked.
+
+all 3 follow standard chess rules and try to keep the kind alive
+
+Author: Apoc
+Version: 1.0
