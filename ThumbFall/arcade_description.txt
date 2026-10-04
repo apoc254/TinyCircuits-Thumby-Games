@@ -1,0 +1,6 @@
+[Thumb Pitfall]
+
+Collect the treasures scattered across the jungle before the time runs out!
+
+Author: Apoc
+Version: 1.0
